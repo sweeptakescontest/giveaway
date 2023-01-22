@@ -1,4 +1,4 @@
-body {
+.body {
      width: 100%;
      height: auto;
      background-image: url('https://cdn.kibrispdr.org/data/1790/money-gif-36.gif');
@@ -207,6 +207,7 @@ body {
  .widget_under_header .spaceback_ui_alert {
      margin:0;
 }
+
 /* --- Button --- */
  .spaceback_ui_button {
      display:inline-flex;
